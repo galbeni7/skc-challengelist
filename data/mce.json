@@ -6,7 +6,7 @@
     "verifier": "me24345",
     "verification": "https://youtu.be/1xFzcg8btTU",
     "percentToQualify": "100",
-    "hz": "240/360",
+    "fps": "240/360",
     "records": [
         {
         "user": "pixelfactorial",
