@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "240/360",
     "records": [
+        {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/Ifyk_yGKTHI?si=W8wefaRE0fGDZjiY",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
