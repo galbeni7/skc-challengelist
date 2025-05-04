@@ -6,7 +6,7 @@
     "verifier": "Diamond",
     "verification": "https://www.youtube.com/watch?v=pWwF57-n6EY",
     "percentToQualify": "100",
-    "fps": "240/360",
+    "hz": "240/360",
     "records": [
     ]
 }

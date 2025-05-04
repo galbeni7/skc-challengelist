@@ -51,7 +51,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
+                            <div class="type-title-sm">FPS</div>
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
@@ -70,8 +70,8 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
+                            <td class="">
+                                <p>{{ record.hz }}</p>
                             </td>
                         </tr>
                     </table>
@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Every level must be based on Sakupen Circles by nick24.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Both Rated and Unnerfed Sakupen Circles related challenges are allowed on this list
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
@@ -115,13 +115,22 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Sakupen Circles Remakes (such as Aquamarine) are not allowed.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        You are allowed to make challenges from scratch, but try to keep the gameplay close to the original.
+                    </p>
+                    <p>
+                        You’re allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.
+                    </p>
+                    <p>
+                        CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
+                    </p>
+                    <p>
+                        Once a level falls onto the Legacy List, we no longer accept records for them.
                     </p>
                 </div>
             </div>
