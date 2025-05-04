@@ -5,9 +5,19 @@
         "link": "https://www.youtube.com/@galbeni7gd"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "lstrawb",
         "link": "https://www.youtube.com/@lstrawb"
+    },
+    {
+        "role": "admin",
+        "name": "Frozi",
+        "link": "https://www.youtube.com/@frozix"
+    },
+    {
+        "role": "helper",
+        "name": "pixelfactorial",
+        "link": "https://www.youtube.com/@pixelfactorial"
     },
     {
         "role": "dev",
