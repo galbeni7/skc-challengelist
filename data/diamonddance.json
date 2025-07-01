@@ -13,6 +13,18 @@
         "link": "https://youtube.com/watch?v=Dq4Wui66YSU?si=stKQ23YTBycpP2tA",
         "hz": "CBF",
         "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/0Rei5zm0FNA?si=gU160MRPxWm5K87P&t=6",
+        "hz": 240,
+        "percent": 100
+        },
+        {
+        "user": "Frozix",
+        "link": "https://youtu.be/WHN5KLb_1Gk?si=dQD-AogEu9teZa4u",
+        "hz": 360,
+        "percent": 100
         }
     ]
 }
