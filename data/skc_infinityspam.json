@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "CBF",
     "records": [
+	{
+        "user": "lstrawb",
+        "link": "https://youtu.be/kTki2TYeioo?si=kPd3ykexwNnZ8ue6",
+        "hz": "CBF",
+        "percent": 100
+        }	
     ]
 }
