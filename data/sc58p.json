@@ -8,11 +8,5 @@
     "percentToQualify": "100",
     "fps": "240/360",
     "records": [
-        {
-        "user": "Skylar",
-        "link": "https://youtu.be/eLIC5vqfP2k",
-        "hz": "CBF",
-        "percent": 100
-        }
     ]
 }
