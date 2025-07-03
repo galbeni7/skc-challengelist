@@ -109,6 +109,12 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
                     </p>
                     <p>
+                        NoClip accuracy is not allowed because of its inaccuracies!
+                    </p>
+                    <p>
+                        You have to beat the challenges on the ID specified! If you do it in a different level, we will not accept it.
+                    </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
