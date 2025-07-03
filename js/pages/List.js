@@ -124,7 +124,7 @@ export default {
                         If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.
                     </p>
                     <p>
-                        Sakupen Circles Remakes (such as Aquamarine) are not allowed.
+                        Sakupen Circles Remakes (such as Aquamarine) are currently not allowed but will be allowed in the near future.
                     </p>
                     <p>
                         You are allowed to make challenges from scratch, but try to keep the gameplay close to the original.
