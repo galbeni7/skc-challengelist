@@ -37,6 +37,12 @@
         "link": "https://www.youtube.com/watch?v=vKhbhSX5Qh4",
         "hz": "CBF",
         "percent": 100
-        }
+        },
+		{
+		"user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=jgOtgFS2T0E",
+        "hz": "240",
+        "percent": 100
+		}
     ]
 }
