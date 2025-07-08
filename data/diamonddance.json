@@ -32,11 +32,17 @@
         "hz": "CBF",
         "percent": 100
         },
-		{
-	    "user": "PaperGuy",
+	{
+        "user": "PaperGuy",
         "link": "https://youtu.be/fXimWKNYdZs?si=WJ-lwBg-Wg0AFEyH",
         "hz": "360",
         "percent": 100
-		}
+	},
+	{
+        "user": "ClawBuckle",
+        "link": "https://youtu.be/GDrO2IXWxLg",
+        "hz": "240",
+        "percent": 100
+	}
     ]
 }

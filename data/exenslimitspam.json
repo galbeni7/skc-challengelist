@@ -8,17 +8,35 @@
     "percentToQualify": "100",
     "fps": "CBF",
     "records": [
-	{
-	"user": "galbeni7",
+    {
+    "user": "galbeni7",
     "link": "https://www.youtube.com/watch?v=_0_HJXm0wkY",
     "hz": "CBF",
     "percent": 100
-	},
-	{
-	"user": "1st3y1",
+    },
+    {
+    "user": "1st3y1",
     "link": "https://www.youtube.com/watch?v=MBmt-I976v4",
     "hz": "CBF",
     "percent": 100
-	}
+    },
+    {
+    "user": "zugi5474",
+    "link": "https://www.youtube.com/watch?v=LdC_l8y-IkM",
+    "hz": "CBF",
+    "percent": 100
+    },
+    {
+    "user": "DEMOSTERY",
+    "link": "https://youtu.be/R1B3Oyw4vYQ",
+    "hz": "CBF",
+    "percent": 100
+    },
+    {
+    "user": "ClawBuckle",
+    "link": "https://youtu.be/MgIgeM-fo-Q",
+    "hz": "240",
+    "percent": 100
+    }
     ]
 }
