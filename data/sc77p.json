@@ -50,6 +50,12 @@
 	"hz": "CBF",
 	"percent": 100,
 	"mobile": true
+	},
+	{
+	"user": "lucastoes",
+	"link": "https://youtu.be/ufrRfxDXvtA",
+	"hz": "180"
+	"percent":100
 	}
     ]
 }
