@@ -6,7 +6,13 @@
     "verifier": "ClawBuckle",
     "verification": "https://www.youtube.com/watch?v=mihGUj_0ApY",
     "percentToQualify": "100",
-    "fps": "60/360",
+    "fps": "60-360",
     "records": [
+	{
+		"user": "lstrawb",
+        "link": "https://youtu.be/AICT0uN-N3w?si=xObQvfXfHODtL4_e",
+        "hz": "CBF",
+        "percent": 100
+	}
     ]
 }

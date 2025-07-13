@@ -6,7 +6,19 @@
     "verifier": "puke",
     "verification": "https://youtu.be/SSkHujHADBQ?si=C-omj51bWKCAq2kS",
     "percentToQualify": "100",
-    "fps": "60/360",
+    "fps": "60-360",
     "records": [
+	{
+		"user": "lstrawb",
+        "link": "https://youtu.be/jn91pcJjbkw",
+        "hz": "CBF",
+        "percent": 100
+	},
+	{
+		"user": "ClawBuckle",
+        "link": "https://www.youtube.com/watch?v=Gc4XqMBvqxU",
+        "hz": "60",
+        "percent": 100
+	}
     ]
 }
