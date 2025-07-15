@@ -25,6 +25,13 @@
 		"link": "https://youtu.be/UyWqyBX-CxY",
 		"hz": "240",
 		"percent": 100
+	},
+	{
+	"user": "DEMOSTERY",
+    "link": "https://youtu.be/3j3G8kvvT-c",
+    "hz": "CBF",
+    "percent": 100
+	"mobile": true
 	}
     ]
 }
