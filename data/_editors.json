@@ -10,7 +10,7 @@
         "link": "https://www.youtube.com/@lstrawb"
     },
     {
-        "role": "admin",
+        "role": "helper",
         "name": "Frozi",
         "link": "https://www.youtube.com/@frozixgd"
     },
@@ -20,8 +20,18 @@
         "link": "https://www.youtube.com/@pixelfactorial"
     },
     {
-        "role": "dev",
-        "name": "sonka",
-        "link": "https://www.youtube.com/@sonkagd"
+        "role": "helper",
+        "name": "Ryanidk",
+        "link": "https://www.youtube.com/@RyanIdk1224"
+    },
+    {
+        "role": "helper",
+        "name": "ad3usgmd",
+        "link": "https://www.youtube.com/@dubinkagd"
+    },
+    {
+        "role": "helper",
+        "name": "zugi5474",
+        "link": "https://www.youtube.com/@dubinkagd"
     }
 ]
