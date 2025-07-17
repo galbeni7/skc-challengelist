@@ -31,6 +31,25 @@
         "link": "https://www.youtube.com/watch?v=XjHfWnUHUqM",
         "hz": "CBF",
         "percent": 100
+        },
+        {
+        "user": "DEMOSTERY",
+        "link": "https://discord.com/channels/1365665356491784202/1368564176578019399/1394845574318264432",
+        "hz": "CBF",
+        "percent": 100,
+	"mobile": true
+        },
+        {
+        "user": "Fantom",
+        "link": "https://www.youtube.com/watch?v=bTR3xqsuY7E",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "Frozix",
+        "link": "https://youtu.be/J4NlvXVHrwM",
+        "hz": "CBF",
+        "percent": 100
         }
     ]
 }
