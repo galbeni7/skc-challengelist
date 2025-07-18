@@ -100,10 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Every level must be based on Sakupen Circles by nick24.
+                        Every level must be, or be very similar to Sakupen Circles by nick24. (Rated / Unnerfed, similar remakes.)
                     </p>
                     <p>
-                        Both Rated and Unnerfed Sakupen Circles related challenges are allowed on this list
+                        Sakupen Circles Remakes (such as Aquamarine) are currently not allowed but will be allowed in the near future.
+                    </p>
+                    <p>
+                        You are allowed to make challenges from scratch, but try to keep the gameplay close to the original.
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
@@ -124,16 +127,13 @@ export default {
                         If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.
                     </p>
                     <p>
-                        Sakupen Circles Remakes (such as Aquamarine) are currently not allowed but will be allowed in the near future.
-                    </p>
-                    <p>
-                        You are allowed to make challenges from scratch, but try to keep the gameplay close to the original.
-                    </p>
-                    <p>
-                        You’re allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted.
+                        You’re allowed to use FPS Bypass but verifications/completions above (in 2.1: 360fps, in 2.2: 240fps) or under 60 FPS will not be accepted.
                     </p>
                     <p>
                         CBF records are allowed for the list, however physics bypass is NOT allowed for >240 FPS, but you can play in 2.1 to get up to 360 FPS.
+                    </p>
+                    <p>
+                        For CBF verified levels, you can use base 240 fps for them in 2.2, if you do not wish to use CBF.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we no longer accept records for them.
